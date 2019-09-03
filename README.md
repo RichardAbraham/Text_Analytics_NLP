@@ -1,4 +1,5 @@
-# Text_Analytics_NLP_StanLee
+# Text_Analytics_NLP_StanLee 
+Twitter Data
 
 # Summary
 Stan Lee, one of Americas most prolific comic book writers, died in Los Angeles at the age of ninety-five on November 12, 2018. This aims to analyze social media's response, particularly Twitter, to his life around and after his death. The goal is to explore the tweets to reveal interesting insights about Stan Lee and his work. In addition, the goal is also to build a ML model that is capable of accurately classifyig the sentiment of a tweet.
