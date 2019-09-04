@@ -11,7 +11,7 @@ In collaboration with others at Marvel—particularly co-writer/artists Jack Kir
 
 Lee was inducted into the comic book industry's Will Eisner Award Hall of Fame in 1994 and the Jack Kirby Hall of Fame in 1995. He received the NEA's National Medal of Arts in 2008.
 
-As a Marvel fan myself, I wanted to explore his life and work in greater detail using machine learning! I intended on utilizing various NLP techniques to shape the data and buld a model that would accurately classify the sentiment of a tweet. In the process, I also wanted to reveal insights about his life and work that many may not be aware of.
+As a Marvel fan myself, I wanted to explore his life and work in greater detail using machine learning! I intended on utilizing various NLP techniques to shape the data and build a model that would accurately classify the sentiment of a tweet. In the process, I also wanted to reveal insights about the activity of twitter users at the time of his death.
 
 # Content
 The data for the analysis was collected through Twitter's public APIs.
