@@ -2,14 +2,14 @@
 Web scrapping - Twitter data
 
 #### SUMMARY:
-Stan Lee, one of Americas most prolific comic book writers, died in Los Angeles at the age of ninety-five on November 12, 2018. Here, I aim to analyze social media's response, particularly Twitter, to his death. 
+Stan Lee, one of America's most prolific comic book writers, died in Los Angeles at the age of ninety-five on November 12, 2018. Here, I aim to analyze social media's response, particularly Twitter, to his death. 
 
 #### PROJECT GOALS:
 * Explore tweets to reveal interesting insights about user activity after his death.
 * Build a machine learning model that is capable of accurately classifyig the sentiment of a tweet as either positive, neutral or negative.
 
 #### PACKAGES USED:
-* Scikit-Learn, Numpy, Pandas, NLTK, Textblob, Matplotlib, Tweepy
+* Scikit-Learn, Numpy, Pandas, NLTK, Textblob, Matplotlib, and Tweepy among others.
 
 #### MOTIVATION:
 Stan Lee was an American comic book writer, editor, publisher, and producer. He rose through the ranks of a family-run business to become Marvel Comics' primary creative leader for two decades, leading its expansion from a small division of a publishing house to a multimedia corporation that dominated the comics industry. Lee was inducted into the comic book industry's Will Eisner Award Hall of Fame in 1994 and the Jack Kirby Hall of Fame in 1995. He received the NEA's National Medal of Arts in 2008.
