@@ -1,5 +1,5 @@
 ## TEXT ANALYTICS USING NLP (Natural Language Processing)
-Web scrapping - Twitter data
+Web scraping - Twitter data
 
 ### SUMMARY:
 Stan Lee, one of America's most prolific comic book writers, died in Los Angeles at the age of ninety-five on November 12, 2018. Here, I aim to analyze social media's response, particularly Twitter, to his death. 
