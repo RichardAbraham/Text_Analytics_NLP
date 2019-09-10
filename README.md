@@ -79,7 +79,7 @@ Text Analytics using NLP - Web Scrapping.ipynb: Contains coded steps undertaken 
 3. Carry out some descriptive analytics
 4. Perform sentiment analysis and build a model for sentiment classification
 
-* **Logistic Regression performed the best with an accuracy of 97.8% and an average f1 score of 0.98**
+* **Logistic Regression performed the best with an accuracy of 98% and an average f1 score of 0.97**
 
 
 ### Please feel free suggest any improvements or to use any of the steps shown above and have fun coding!! 
